@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>spring.micro.service</groupId>
 	<artifactId>order-service</artifactId>
+	 <packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>order-service</name>
 	<description>Demo project for Spring Boot</description>
